@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: aqua;
+}
+
+#button_1, #button_2, #button_3
+{
+    background-color: blue;
+    color: white;
+}
